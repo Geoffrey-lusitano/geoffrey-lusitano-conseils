@@ -1,0 +1,8 @@
+#about {
+    padding: 2rem;
+    height: 50vh;
+    border: 1px solid black;
+}
+.about__title {
+    padding-top: 50px;
+}
