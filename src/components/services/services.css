@@ -1,3 +1,12 @@
 #services {
-    height:50vh;
+
+}
+.services__title {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.services__content {
+    display: flex;
+    justify-content: space-around;
 }

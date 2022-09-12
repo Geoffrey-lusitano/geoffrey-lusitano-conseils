@@ -4,6 +4,7 @@ import './contact.css'
 function Contact() {
   return (
     <section id="contact">
+      <h2>test</h2>
         <div>Contact</div>
     </section>
   )
